@@ -16,6 +16,6 @@
 	3. Save weather data
 3. Opening landing page with available countries
 4. Search locations for map to focus on
-	4. Dynamic search suggestions on input
+	1. Dynamic search suggestions on input
 5. Switch to MVC webpack framework 
 6. Enable LInz map tile clusters to overlay
